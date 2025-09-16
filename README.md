@@ -1,3 +1,2 @@
 # Praktikum PBO
-Source Code Praktikum PBO 2025
-Materi Inheritance
+Source Code Materi Inheritance
