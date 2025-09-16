@@ -17,6 +17,9 @@ public class Pekerja {
     }
 
     public String getNama() {
+        if (this.nama == null) {
+            return "Nama belum diisi";
+        }
         return nama;
     }
 
@@ -36,3 +39,4 @@ public class Pekerja {
         }
     }
 }
+
