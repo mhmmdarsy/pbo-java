@@ -1,2 +1,2 @@
-# Praktikum PBO
-Source Code Praktikum PBO 2025
+# Praktikum PBO 2025
+Source Code Java GUI
